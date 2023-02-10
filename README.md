@@ -58,6 +58,10 @@ source venv/bin/activate
 
 # Pip install required packages
 pip install -r requirements.txt
+
+# Install dataset 
+cd data/ 
+sh get_data.sh # requires gsutil 
 ```
 ## Known Bugs
 
