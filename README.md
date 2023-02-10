@@ -43,6 +43,10 @@ Write File
 
 * Save your DataFrame (including the four added columns) to /data as a parquet file. Exclude the /data directory from Git.
 
+* Use Matplotlib to create a visualization (i.e. a chart) using the coffee data.
+
+* Include code to write the Parquet file to BigQuery 
+  
 ###  Setup/Install (Bash)
 
 ```bash
