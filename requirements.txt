@@ -7,3 +7,7 @@ pyarrow
 pyspark
 pyspark[sql]
 pyspark[pandas_on_spark]
+gcsfs
+fsspec
+google-cloud-storage
+google-cloud-bigquery
