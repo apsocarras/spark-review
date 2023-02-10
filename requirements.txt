@@ -1,0 +1,9 @@
+pandas
+plotly
+matplotlib
+jupyterlab
+pyyaml
+pyarrow
+pyspark
+pyspark[sql]
+pyspark[pandas_on_spark]
